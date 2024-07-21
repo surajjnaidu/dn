@@ -10,13 +10,13 @@
 
 
 <div id="badges">
-  <a href="https://sites.google.com/view/jungrak-son-phd-pe">
+  <a href="https://sites.google.com/view/">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/jungrak-son/">
+  <a href="https://www.linkedin.com/in//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=iznZRk-yyEI&list=PLX56XDqQihbr64aVNO7vuXC-PSx6SSQ32">
+  <a href="https://">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
